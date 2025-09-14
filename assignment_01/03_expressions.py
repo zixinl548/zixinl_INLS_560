@@ -1,22 +1,25 @@
-# expressions are basically anything combined
-# orders of operation
+# Experimenting with expressions
 
-a=2 # this is not pythonic!
-b = 5
-c = 1
+my_age = 20
+operand = 3
 
-# Default OOO
-result1 = a + b + c
-print("a + b * c =", result1)
+# Addition
+print("my_age + operand =", my_age + operand)
 
-# With Parentheses: addition first
-result2 = (a + b) + c
-print("(a + b) * c =", result2)
+# Subtraction
+print("my_age - operand =", my_age - operand)
 
-# Default OOO (write anything here, totally up to you)
-result3 = a + b + c
-print("a + b * c =", result3)
+# Multiplication
+print("my_age * operand =", my_age * operand)
 
-# Default OOO (write anything here, totally up to you)
-result4 = a + b + c
-print("a + b * c =", result4)
+# True division
+print("my_age / operand =", my_age / operand)
+
+# Floor division
+print("my_age // operand =", my_age // operand)
+
+# Remainder
+print("my_age % operand =", my_age % operand)
+
+# Exponentiation
+print("my_age ** operand =", my_age ** operand)

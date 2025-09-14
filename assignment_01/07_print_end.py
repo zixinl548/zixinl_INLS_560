@@ -1,3 +1,5 @@
+# Demonstrating custom end characters in the print function 
+
 print("Welcome to")
 print("GeeksforGeeks")
 
@@ -13,4 +15,5 @@ print("Party")
 # My Example
 print("Welcome to", end = ' my ')
 print("Birthday")
+
 

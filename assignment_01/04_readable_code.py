@@ -1,4 +1,4 @@
-
+# Making code more readable with line breaks and indentation
 my_list = [1,
            2,
            3,
@@ -13,9 +13,9 @@ my_list = [1,
            2,
            3]
 
-my_dict = {"1": "Joe",
-           "2": "Sally",        
+my_dict = {"1": "Nancy",
+           "2": "Steven",        
            }
 
-my_perimeter = (5 + 3 + 56 +
-                6 + 34 + 15)
+my_perimeter = (5 + 2 + 56 +
+                3 + 34 + 15)
